@@ -1,0 +1,36 @@
+
+html{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/*ヘッダー*/
+.header{
+    margin-bottom: 72px;
+}
+.header bg{
+    position: relative;
+}
+.header img{
+    position: absolute;
+    top: 16px;
+}
+
+/*コンテンツ*/
+.onboarding{
+    width: 215px;
+    margin: 0 auto;
+}
+.image{
+    width: 136px;
+    height: 136px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}   
+
+/*ボタン*/
+.button{
+    margin-top:64px;
+    display: block;
+    text-align: center;
+}
